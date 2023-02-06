@@ -2,7 +2,9 @@ from selenium import webdriver
 import csv
 from bs4 import BeautifulSoup
 import requests as req
-from functions import get_content, get_title, go_to_page, write_to_csv
+from functions import go_to_page, write_to_csv
+import deepl
+from classes import Article
 
 
 soup = go_to_page("https://www.bbc.com/news/technology")
@@ -21,23 +23,25 @@ for link in texts:
         new_link = "https://www.bbc.com" + link.get("href")
         list_of_links.append(new_link)
 
-print(list_of_links)
+#print(list_of_links)
 
-
-titles = []
-content = []
+articles = []
 
 for link in list_of_links:
-    new_page_soup = go_to_page(link)
-    get_title(new_page_soup, titles)
-    get_content(new_page_soup, content)
+    soup = go_to_page(link)
+    title = soup.find("h1", {"id": "main-heading"})
+    if title is not None:
+        title = title.text
+    contents = soup.find_all(attrs={"class": "ssrcss-11r1m41-RichTextComponentWrapper ep2nwvo0", "data-component": "text-block"})
+    content = ""
+    for article in contents:
+        content += article.text
+    articles.append(Article(title, content).return_list(title, content))
 
-titles = list(dict.fromkeys(titles))
-#print(titles)
-content = list(dict.fromkeys(content))
-#print(content)
+ttl = []
+ctn = []
+for element in range(len(articles)):
+    ttl.append(articles[element][0])
+    ctn.append(articles[element][1])
 
-print(content)
-
-# article = [[titles[index], content[index]] for index in range(0, len(titles))]
-# write_to_csv(article)
+write_to_csv(ttl, ctn)
