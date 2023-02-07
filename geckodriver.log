@@ -7252,8 +7252,10 @@ WebDriver BiDi listening on ws://127.0.0.1:64137
 1675712320555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileHWiYhQ\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:64137/devtools/browser/84252ec6-5d07-4dec-b72e-f2c75c5eb6fe
-1675712566457	geckodriver	INFO	Listening on 127.0.0.1:64350
-1675712569528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileBuvrEo"
+1675721112294	Marionette	INFO	Stopped listening on port 64144
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileBuvrEo"
 1675712570321	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675712570329	Marionette	INFO	Listening on port 64358
@@ -7262,8 +7264,10 @@ WebDriver BiDi listening on ws://127.0.0.1:64351
 1675712570542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileBuvrEo\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:64351/devtools/browser/a989c336-f93e-4a0a-a064-edf4bdb1bcda
-1675712700592	geckodriver	INFO	Listening on 127.0.0.1:64466
-1675712703656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileornVsE"
+1675721112306	Marionette	INFO	Stopped listening on port 64358
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileornVsE"
 1675712704472	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675712704481	Marionette	INFO	Listening on port 64476
@@ -7272,8 +7276,10 @@ WebDriver BiDi listening on ws://127.0.0.1:64467
 1675712704686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileornVsE\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:64467/devtools/browser/48d396cf-7bf5-459a-8902-481b8b5286ff
-1675712888563	geckodriver	INFO	Listening on 127.0.0.1:64682
-1675712891634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilekyNX4I"
+1675721112362	Marionette	INFO	Stopped listening on port 64476
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilekyNX4I"
 1675712892493	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675712892502	Marionette	INFO	Listening on port 64690
@@ -7292,8 +7298,10 @@ WebDriver BiDi listening on ws://127.0.0.1:64752
 1675712932919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile1HC3TN\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:64752/devtools/browser/fb942ea9-36bb-4cf2-9878-f765d5a28403
-1675712979870	geckodriver	INFO	Listening on 127.0.0.1:64852
-1675712982929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileOxxiLd"
+1675721112354	Marionette	INFO	Stopped listening on port 64759
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileOxxiLd"
 1675712983711	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675712983719	Marionette	INFO	Listening on port 64861
@@ -7302,8 +7310,10 @@ WebDriver BiDi listening on ws://127.0.0.1:64853
 1675712983938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileOxxiLd\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:64853/devtools/browser/e84e09d9-ecff-44d6-ae4f-25d7bf4be416
-1675713469080	geckodriver	INFO	Listening on 127.0.0.1:65064
-1675713472143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile7a4L1h"
+1675721112325	Marionette	INFO	Stopped listening on port 64861
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile7a4L1h"
 1675713472951	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675713472961	Marionette	INFO	Listening on port 65072
@@ -7312,8 +7322,9 @@ WebDriver BiDi listening on ws://127.0.0.1:65065
 1675713473178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile7a4L1h\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:65065/devtools/browser/a80b6431-0787-4b8c-a332-dc915c62d6ff
-1675713596818	geckodriver	INFO	Listening on 127.0.0.1:65275
-1675713599883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile2N4iB0"
+1675721108304	Marionette	INFO	Stopped listening on port 65072
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile2N4iB0"
 1675713600699	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675713600707	Marionette	INFO	Listening on port 65283
@@ -7322,8 +7333,9 @@ WebDriver BiDi listening on ws://127.0.0.1:65276
 1675713600916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile2N4iB0\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:65276/devtools/browser/c2a8fa2f-9ca9-4685-9483-e07aa7ee68fe
-1675715112202	geckodriver	INFO	Listening on 127.0.0.1:49289
-1675715115272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileI8ASKn"
+1675721108163	Marionette	INFO	Stopped listening on port 65283
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileI8ASKn"
 1675715116058	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675715116065	Marionette	INFO	Listening on port 49297
@@ -7332,8 +7344,9 @@ WebDriver BiDi listening on ws://127.0.0.1:49290
 1675715116283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileI8ASKn\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:49290/devtools/browser/6bc57fab-5b58-4acc-b972-a92416809f6d
-1675716024161	geckodriver	INFO	Listening on 127.0.0.1:49800
-1675716027263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileAAccvE"
+1675721108125	Marionette	INFO	Stopped listening on port 49297
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileAAccvE"
 1675716028049	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675716028056	Marionette	INFO	Listening on port 49808
@@ -7342,8 +7355,9 @@ WebDriver BiDi listening on ws://127.0.0.1:49801
 1675716028263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileAAccvE\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:49801/devtools/browser/7d0d6228-31e0-4e4e-9ffc-604b4a842891
-1675716107527	geckodriver	INFO	Listening on 127.0.0.1:49912
-1675716110609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileFUlvOq"
+1675721108161	Marionette	INFO	Stopped listening on port 49808
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileFUlvOq"
 1675716111359	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675716111365	Marionette	INFO	Listening on port 49924
@@ -7352,8 +7366,9 @@ WebDriver BiDi listening on ws://127.0.0.1:49913
 1675716111532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileFUlvOq\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:49913/devtools/browser/eaf08438-b35a-4679-901f-2aa5d8b40bdd
-1675716182701	geckodriver	INFO	Listening on 127.0.0.1:49968
-1675716185780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilecCE81B"
+1675721107993	Marionette	INFO	Stopped listening on port 49924
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilecCE81B"
 1675716186592	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675716186602	Marionette	INFO	Listening on port 49976
@@ -7362,8 +7377,9 @@ WebDriver BiDi listening on ws://127.0.0.1:49969
 1675716186819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilecCE81B\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:49969/devtools/browser/f32bade8-8eb9-43e0-9e58-f4d2dbdf6505
-1675716704553	geckodriver	INFO	Listening on 127.0.0.1:50229
-1675716707602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile9k4JwE"
+1675721107704	Marionette	INFO	Stopped listening on port 49976
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile9k4JwE"
 1675716708433	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675716708441	Marionette	INFO	Listening on port 50238
@@ -7372,8 +7388,9 @@ WebDriver BiDi listening on ws://127.0.0.1:50230
 1675716708675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile9k4JwE\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50230/devtools/browser/8f2a24f3-7098-4499-83df-6bd87e19691b
-1675716791974	geckodriver	INFO	Listening on 127.0.0.1:50341
-1675716795065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileYDt8Oh"
+1675721107373	Marionette	INFO	Stopped listening on port 50238
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileYDt8Oh"
 1675716796120	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675716796128	Marionette	INFO	Listening on port 50352
@@ -7395,8 +7412,9 @@ WebDriver BiDi listening on ws://127.0.0.1:50458
 1675716937130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileXybdLE\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50458/devtools/browser/03e7afbd-31eb-497b-9c20-569895da168c
-1675717234115	geckodriver	INFO	Listening on 127.0.0.1:50612
-1675717237182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilevuBcTx"
+1675721107048	Marionette	INFO	Stopped listening on port 50466
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilevuBcTx"
 1675717238530	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675717238540	Marionette	INFO	Listening on port 50623
@@ -7405,8 +7423,9 @@ WebDriver BiDi listening on ws://127.0.0.1:50613
 1675717238859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilevuBcTx\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50613/devtools/browser/0d28dc30-d377-4444-b7a7-fa9d1014b6d9
-1675717578384	geckodriver	INFO	Listening on 127.0.0.1:50775
-1675717581428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileSVOHep"
+1675721106408	Marionette	INFO	Stopped listening on port 50623
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileSVOHep"
 1675717582620	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675717582632	Marionette	INFO	Listening on port 50810
@@ -7415,8 +7434,9 @@ WebDriver BiDi listening on ws://127.0.0.1:50776
 1675717582908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileSVOHep\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50776/devtools/browser/f166da70-18a7-4fc0-bb31-6f1fcf43fcb5
-1675717662208	geckodriver	INFO	Listening on 127.0.0.1:50974
-1675717665279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileVUzZL2"
+1675721106488	Marionette	INFO	Stopped listening on port 50810
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileVUzZL2"
 1675717666450	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675717666463	Marionette	INFO	Listening on port 50982
@@ -7425,8 +7445,9 @@ WebDriver BiDi listening on ws://127.0.0.1:50975
 1675717666774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileVUzZL2\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:50975/devtools/browser/f357df2a-36bb-4622-b041-f53ef3e07b93
-1675718956603	geckodriver	INFO	Listening on 127.0.0.1:51433
-1675718959656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileneYeo1"
+1675721104949	Marionette	INFO	Stopped listening on port 50982
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileneYeo1"
 1675718960667	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675718960675	Marionette	INFO	Listening on port 51442
@@ -7435,8 +7456,9 @@ WebDriver BiDi listening on ws://127.0.0.1:51434
 1675718960920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileneYeo1\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:51434/devtools/browser/7f14ac0a-689e-424b-8919-938335ef0be0
-1675719076402	geckodriver	INFO	Listening on 127.0.0.1:51547
-1675719079469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileWq7siw"
+1675721104502	Marionette	INFO	Stopped listening on port 51442
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileWq7siw"
 1675719080473	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675719080483	Marionette	INFO	Listening on port 51557
@@ -7445,8 +7467,9 @@ WebDriver BiDi listening on ws://127.0.0.1:51548
 1675719080742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileWq7siw\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:51548/devtools/browser/092cf17a-2fbc-4bdc-a7ee-d96c1241cbc2
-1675719326925	geckodriver	INFO	Listening on 127.0.0.1:51706
-1675719329968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileEEB2kx"
+1675721104117	Marionette	INFO	Stopped listening on port 51557
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileEEB2kx"
 1675719330434	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675719330439	Marionette	INFO	Listening on port 51714
@@ -7455,8 +7478,9 @@ WebDriver BiDi listening on ws://127.0.0.1:51707
 1675719330580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileEEB2kx\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:51707/devtools/browser/25074549-3c9b-49e9-8f02-a0af9bfd6687
-1675719503560	geckodriver	INFO	Listening on 127.0.0.1:51895
-1675719506607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilegU7COG"
+1675721103519	Marionette	INFO	Stopped listening on port 51714
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilegU7COG"
 1675719507079	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675719507083	Marionette	INFO	Listening on port 51904
@@ -7465,8 +7489,9 @@ WebDriver BiDi listening on ws://127.0.0.1:51896
 1675719507211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilegU7COG\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:51896/devtools/browser/af8afb0c-b412-478b-ae69-bd6ed766b80a
-1675719878091	geckodriver	INFO	Listening on 127.0.0.1:52222
-1675719881131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileZxxBaA"
+1675721099874	Marionette	INFO	Stopped listening on port 51904
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileZxxBaA"
 1675719881629	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675719881634	Marionette	INFO	Listening on port 52231
@@ -7475,8 +7500,9 @@ WebDriver BiDi listening on ws://127.0.0.1:52223
 1675719881772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileZxxBaA\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:52223/devtools/browser/fb2d29b0-79d2-46eb-bce0-97cf35776181
-1675719987272	geckodriver	INFO	Listening on 127.0.0.1:52344
-1675719990348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileGHxIBz"
+1675721102313	Marionette	INFO	Stopped listening on port 52231
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileGHxIBz"
 1675719990794	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675719990799	Marionette	INFO	Listening on port 52353
@@ -7485,8 +7511,9 @@ Read port: 52353
 1675719991032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileGHxIBz\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:52345/devtools/browser/09713b49-4a1c-4a3b-a545-3a0c5de53873
-1675720057014	geckodriver	INFO	Listening on 127.0.0.1:52456
-1675720060079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilehcIl28"
+1675721101031	Marionette	INFO	Stopped listening on port 52353
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilehcIl28"
 1675720060678	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1675720060682	Marionette	INFO	Listening on port 52464
@@ -7495,3 +7522,157 @@ WebDriver BiDi listening on ws://127.0.0.1:52457
 1675720060812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilehcIl28\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:52457/devtools/browser/0b2fdab6-c85f-41b5-9d69-51d92078eea3
+1675721099276	Marionette	INFO	Stopped listening on port 52464
+Dynamically enable window occlusion 1
+1675796072778	geckodriver	INFO	Listening on 127.0.0.1:57986
+1675796075862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilefuaIm2"
+1675796076348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796076354	Marionette	INFO	Listening on port 57995
+Read port: 57995
+WebDriver BiDi listening on ws://127.0.0.1:57987
+1675796076486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilefuaIm2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57987/devtools/browser/01fcd08a-4714-405f-b8f9-06298bfe66c6
+1675796170912	geckodriver	INFO	Listening on 127.0.0.1:58095
+1675796173963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile2y6jBV"
+1675796174415	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796174419	Marionette	INFO	Listening on port 58103
+WebDriver BiDi listening on ws://127.0.0.1:58096
+Read port: 58103
+1675796174656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile2y6jBV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58096/devtools/browser/bfb9cdb0-33af-4d6e-9deb-0d2aa228ccbb
+1675796225796	geckodriver	INFO	Listening on 127.0.0.1:58141
+1675796228849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileiNUre2"
+1675796229295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796229299	Marionette	INFO	Listening on port 58149
+WebDriver BiDi listening on ws://127.0.0.1:58142
+Read port: 58149
+1675796229535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileiNUre2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58142/devtools/browser/b23669bc-eff3-4bd2-80a9-f2631944227a
+1675796273505	geckodriver	INFO	Listening on 127.0.0.1:58183
+1675796276552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile0M2nhZ"
+1675796276989	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796276993	Marionette	INFO	Listening on port 58191
+Read port: 58191
+WebDriver BiDi listening on ws://127.0.0.1:58184
+1675796277099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofile0M2nhZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58184/devtools/browser/fb1a1ea4-6406-4b38-a7db-b859939b6793
+1675796380680	geckodriver	INFO	Listening on 127.0.0.1:58297
+1675796383754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileCi1ox0"
+1675796384206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796384210	Marionette	INFO	Listening on port 58305
+WebDriver BiDi listening on ws://127.0.0.1:58298
+Read port: 58305
+1675796384452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileCi1ox0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58298/devtools/browser/a2cd98df-3265-4562-b059-807acb84604c
+1675796433571	geckodriver	INFO	Listening on 127.0.0.1:58400
+1675796436615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilenqhOgP"
+1675796437057	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796437061	Marionette	INFO	Listening on port 58408
+WebDriver BiDi listening on ws://127.0.0.1:58401
+Read port: 58408
+1675796437299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilenqhOgP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58401/devtools/browser/5e685b8c-18fb-4137-a714-4dd945f45365
+1675796490211	geckodriver	INFO	Listening on 127.0.0.1:58502
+1675796493268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilede1mOS"
+1675796493714	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796493718	Marionette	INFO	Listening on port 58510
+WebDriver BiDi listening on ws://127.0.0.1:58503
+Read port: 58510
+1675796493973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilede1mOS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58503/devtools/browser/4108f33a-bff6-460c-a68c-c4cee44fa692
+1675796560776	geckodriver	INFO	Listening on 127.0.0.1:58544
+1675796563838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileSMYq5E"
+1675796564316	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675796564320	Marionette	INFO	Listening on port 58552
+Read port: 58552
+WebDriver BiDi listening on ws://127.0.0.1:58545
+1675796564446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileSMYq5E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58545/devtools/browser/dd62c839-0918-4f25-90ce-e57969f155d0
+1675797262321	geckodriver	INFO	Listening on 127.0.0.1:58820
+1675797265386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileUr1hpq"
+1675797265834	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675797265838	Marionette	INFO	Listening on port 58828
+WebDriver BiDi listening on ws://127.0.0.1:58821
+Read port: 58828
+1675797266082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileUr1hpq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58821/devtools/browser/4fa0cf45-7adb-4a62-8c88-7ebaf0641c5b
+1675797300039	geckodriver	INFO	Listening on 127.0.0.1:58878
+1675797303094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileOvVTmm"
+1675797303546	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675797303551	Marionette	INFO	Listening on port 58886
+WebDriver BiDi listening on ws://127.0.0.1:58879
+Read port: 58886
+1675797303824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileOvVTmm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58879/devtools/browser/21bb4a6e-3594-4e38-a26c-e794f7efda60
+1675797533700	geckodriver	INFO	Listening on 127.0.0.1:58987
+1675797536759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilex5LYrG"
+1675797537199	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675797537203	Marionette	INFO	Listening on port 58995
+WebDriver BiDi listening on ws://127.0.0.1:58988
+Read port: 58995
+1675797537455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilex5LYrG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58988/devtools/browser/55516c96-f34b-4e9c-bb8c-bd405362bb70
+1675798174869	geckodriver	INFO	Listening on 127.0.0.1:59214
+1675798179994	geckodriver	INFO	Listening on 127.0.0.1:59222
+1675798187861	geckodriver	INFO	Listening on 127.0.0.1:59230
+1675798190918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilesTPUxY"
+1675798191380	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675798191384	Marionette	INFO	Listening on port 59239
+WebDriver BiDi listening on ws://127.0.0.1:59231
+Read port: 59239
+1675798191607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilesTPUxY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59231/devtools/browser/f686b9fc-15eb-4314-b472-18e53deec18b
+1675798327778	geckodriver	INFO	Listening on 127.0.0.1:59290
+1675798330869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilevYjWBk"
+1675798331348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675798331352	Marionette	INFO	Listening on port 59299
+Read port: 59299
+WebDriver BiDi listening on ws://127.0.0.1:59291
+1675798331494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilevYjWBk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59291/devtools/browser/641f79c4-a675-4f20-936f-81829cc7d653
+1675798541287	geckodriver	INFO	Listening on 127.0.0.1:59405
+1675798544332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilemrMcYJ"
+1675798544788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675798544792	Marionette	INFO	Listening on port 59413
+WebDriver BiDi listening on ws://127.0.0.1:59406
+Read port: 59413
+1675798545035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofilemrMcYJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59406/devtools/browser/911b252d-a346-4b55-9033-f9b934f3614d
+1675798791094	geckodriver	INFO	Listening on 127.0.0.1:59542
+1675798794157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileqUOk6H"
+1675798794611	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675798794616	Marionette	INFO	Listening on port 59551
+WebDriver BiDi listening on ws://127.0.0.1:59543
+Read port: 59551
+1675798794843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\UPWr\\AppData\\Local\\Temp\\rust_mozprofileqUOk6H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59543/devtools/browser/44742f4c-d2bd-4494-9669-02bce843d7e0
