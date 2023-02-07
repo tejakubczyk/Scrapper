@@ -1,3 +1,0 @@
-scaper newsów ze źródła -> do excela, osobono tytuł, treść, a potem połączyć z ai i przerabiać treść	
-
-translator -> deepL, przez api
